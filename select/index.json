@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ナツマトペ",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-01T12:46:17.989632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナツマトペ (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_ナツマトペ_(=LOVE_6th_ANNIVERSARY_PREMIUM_CONCERT)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナツマトペ",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_ナツマトペ_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナツマトペ",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_ナツマトペ_=LOVE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ナツマトペ",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_02_ナツマトペ_=LOVE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ナツマトペ",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_03_ナツマトペ_=LOVE.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ナツマトペ - =LOVE 7th ANNIVERSARY PREMIUM CONCERT",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_04_ナツマトペ_-_=LOVE_7th_ANNIVERSARY_PREMIUM_CONCERT_=LOVE.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ナツマトぺ",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_05_ナツマトぺ_=LOVE.txt"
+    }
+  ]
+}
